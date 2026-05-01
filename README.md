@@ -61,5 +61,4 @@ The mixing matrix now includes a **Yaw Input** to manage rotation:
 
 ---
 
-### 🏷 Project Topics
-`webots` `autonomous-navigation` `pid-control` `robotics` `waypoint-tracking` `python` `control-systems` `fsm` `uav`
+
